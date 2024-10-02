@@ -1,4 +1,4 @@
-# camera_trap_data_sharing
+# camera-trap-data-sharing
 
 Some of my research work from within the lab of Dr. Sara Beery @ MIT CSAIL:
 
